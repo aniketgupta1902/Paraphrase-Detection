@@ -1,7 +1,9 @@
 # Paraphrase-Detection
+The goal of Paraphrase Identification is to determine whether a pair of sentences have the same meaning.
 A Hybrid RoBERTa-LSTM model which uses the strengths of both the BERT based RoBERTa model as well as the sequential LSTM model for the task of 
-paraphrase identification on the Quora Question Pair Dataset
+paraphrase identification on the Quora Question Pair Dataset.
 
 Dataset - https://www.kaggle.com/c/quora-question-pairs
 
-The Accuracy of **94.3%** and F1 score of **0.94** was achieved by this model, which by far outperforms the state-of-art models
+The Accuracy of **94.3%** and F1 score of **0.94** was achieved by this model, which by far outperforms the state-of-art models.
+Feel free to contribute to this repository.
